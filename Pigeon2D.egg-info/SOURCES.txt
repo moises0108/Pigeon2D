@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-Pigeon2D.egg-info/PKG-INFO
-Pigeon2D.egg-info/SOURCES.txt
-Pigeon2D.egg-info/dependency_links.txt
-Pigeon2D.egg-info/not-zip-safe
-Pigeon2D.egg-info/top_level.txt
