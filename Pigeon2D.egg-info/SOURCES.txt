@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 Pigeon2D.egg-info/PKG-INFO
 Pigeon2D.egg-info/SOURCES.txt
