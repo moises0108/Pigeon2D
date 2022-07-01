@@ -1,5 +1,10 @@
 # Pigeon2D
-![Version](https://img.shields.io/pypi/v/Pigeon2D) ![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D) ![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)
+![Version](https://img.shields.io/pypi/v/Pigeon2D)
+![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)
+![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)
+![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)
+![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)
+
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)
 
 A python game engine for pygame.
