@@ -9,7 +9,7 @@
 
 A python game engine for pygame.
 
-[![Help wanted](https://img.shields.io/github/labels/desvasicek/Pigeon2D/help-wanted)](https://github.com/desvasicek/Pigeon2D/pulls)
+[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 ## How To
 
 ```python
