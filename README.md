@@ -1,4 +1,4 @@
-﻿# Pigeon2D
+# Pigeon2D
 ![Version](https://img.shields.io/pypi/v/Pigeon2D) ![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D) ![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)
 
@@ -18,6 +18,11 @@ while True:
     game.update()
 
 ```
+```
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+```
+
 ## Used in Tutorial
 ### Assets
 Assets were made on itch.io by Pop Shop Packs (https://pop-shop-packs.itch.io/)
