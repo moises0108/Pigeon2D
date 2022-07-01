@@ -1,0 +1,39 @@
+========
+Pigeon2D
+========
+--------------------------------
+A python game engine for pygame.
+--------------------------------
+How To
+======
+``
+# import module
+import Pigeon2d as p
+# initialize Game() object
+game = p.Game()
+# load image
+image = p.resize_image(p.spritesheet("assets/Pigeons/Original Diminsions/Pigeon Sprite Sheet.png").image_at((0, 16, 16, 16)))
+# initialize player Sprite() object
+player = p.Sprite(game, image, pos=(20, 20))
+# game loop
+while True:
+    game.update()
+
+``
+``
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+``
+
+Used in Tutorial
+================
+Assets
+------
+Assets were made on itch.io by Pop Shop Packs (https://pop-shop-packs.itch.io/)
+Example Code
+------------
+Example code by @desvasicek (me) feel free to use it though.
+Code
+----
+Code by @desvasicek and is registered under the MIT License ([Read it here](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
+Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted to Python 3.9.2 by @desvasicek
