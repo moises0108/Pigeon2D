@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Pigeon2D
+Version: 1.0
+Summary: A game engine for python pygame.
+Home-page: https://github.com/desvasicek/Pigeon2D
+Author: desvasicek
+License: MIT
+License-File: LICENSE
