@@ -8,7 +8,10 @@
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)
 
 A python game engine for pygame.
+
+[![Help wanted](https://img.shields.io/github/labels/desvasicek/Pigeon2D/help-wanted)](https://github.com/desvasicek/Pigeon2D/pulls)
 ## How To
+
 ```python
 # import module
 import Pigeon2d as p
