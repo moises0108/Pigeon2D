@@ -12,6 +12,37 @@ A python game engine for pygame.
 
 ## How To
 
+### Syntax
+
+```python
+# Game
+
+Game(title, GRAVITY, FRICTION, ACCELERATION)
+.update(fill)
+
+# Sprite (pygame.sprite.Sprite)
+
+Sprite(surface, image, pos, playerobj)
+.move()
+.draw()
+
+# spritesheet (object)
+
+spritesheet(filename)
+.image_at(rectangle, colorkey)
+.images_at(rects, colorkey)
+.load_strip(rect, image_count, colorkey)
+
+# SpriteStripAnim (object)
+
+SpriteStripAnim(filename, rect, count, colorkey, loop, frames)
+.iter()
+.next()
+
+```
+
+### Tutorial
+
 ```python
 # import module
 import Pigeon2d as p
