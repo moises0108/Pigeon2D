@@ -7,6 +7,7 @@
 ![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)
 ![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)
 ![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)
+[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)
 [![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
