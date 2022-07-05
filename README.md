@@ -1,4 +1,6 @@
-![Banner](Pigeon2d.png)
+<center><img src="Pigeon2d.png"></center>
+
+
 # Pigeon2D
 [![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)
 ![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)
