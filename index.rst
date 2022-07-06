@@ -1,9 +1,69 @@
 .. image:: Pigeon2d.png
+
 ========
 Pigeon2D
 ========
+
 What it is
 ----------
+
 Pigeon2D is a 2D Game Engine built for python pygame
 
 `See it on github <https://github.com/desvasicek/Pigeon2D>`_
+
+Tutorial
+--------
+
+.. code-block:: python
+
+  # import module
+  import Pigeon2d as p
+  # initialize Game() object
+  game = p.Game()
+  # load image
+  image = p.resize_image(p.spritesheet("assets/Pigeons/Original Diminsions/Pigeon Sprite Sheet.png").image_at((0, 16, 16, 16)))
+  # initialize player Sprite() object
+  player = p.Sprite(game, image, pos=(20, 20))
+  # game loop
+  while True:
+    game.update()
+
+  
+..
+
+.. code-block::
+
+  pygame 1.9.6
+  Hello from the pygame community. https://www.pygame.org/contribute.html
+
+..
+
+Syntax
+------
+
+.. code-block:: python
+  
+  # Game
+
+  Game(title, GRAVITY, FRICTION, ACCELERATION)
+  .update(fill)
+
+  # Sprite (pygame.sprite.Sprite)
+
+  Sprite(surface, image, pos, playerobj)
+  .move()
+  .draw()
+
+  # spritesheet (object)
+
+  spritesheet(filename)
+  .image_at(rectangle, colorkey)
+  .images_at(rects, colorkey)
+  .load_strip(rect, image_count, colorkey)
+
+  # SpriteStripAnim (object)
+
+  SpriteStripAnim(filename, rect, count, colorkey, loop, frames)
+  .iter()
+  .next()
+..
