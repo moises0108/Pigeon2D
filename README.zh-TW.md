@@ -71,5 +71,5 @@ while True:
 
 ### 代碼
 
-@desvasicek 編寫的代碼，並在 MIT 許可證下註冊（[在這裡閱讀](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE))。
+@desvasicek 編寫的代碼，並在 MIT 許可證下註冊（[在這裡閱讀](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)）。
 pygame 處理 Spritesheet (<https://www.pygame.org/wiki/Spritesheet>) 由@desvasicek 改編為 Python 3.9.2
