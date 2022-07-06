@@ -81,18 +81,12 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 <!-- readme: collaborators -start -->
 <table>
 <tr>
-    <td>
+    <td align="center">
         <a href="https://github.com/desvasicek">
             <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
             <br />
             <sub><b>Des</b></sub>
         </a>
-    </td></tr>
-<tr>
-    <td>
-        <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="100", alt="Github Bot">
-        <br />
-        <sub><b>Github Actions</b></sub>
     </td></tr>
 </table>
 <!-- readme: collaborators -end -->
@@ -102,18 +96,12 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 <!-- readme: contributors -start -->
 <table>
 <tr>
-    <td>
+    <td align="center">
         <a href="https://github.com/desvasicek">
             <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
             <br />
             <sub><b>Des</b></sub>
         </a>
-    </td></tr>
-<tr>
-    <td>
-        <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="100", alt="Github Bot">
-        <br />
-        <sub><b>Github Actions</b></sub>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
