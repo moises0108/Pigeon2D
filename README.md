@@ -14,12 +14,12 @@
 
 A python game engine for pygame.
 
-## Fact of the Commit
+## Fact/Quote of the Commit
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-***Confused? Every time I commit to this project, a new quote is released***
+***Confused? Every time I commit to this project, a new quote or fact is released***
 
 ## How To
 
