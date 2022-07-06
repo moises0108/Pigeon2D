@@ -8,19 +8,19 @@
 
 Silnik gry Pythona dla pygame.
 
-## Fakt zobowiązania
+## Fakt/cytat o zobowiązaniu
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝W 1960 r. komputer w NORAD ostrzegł z 99,9% pewnością, że Sowieci właśnie rozpoczęli atak rakietowy na pełną skalę na Amerykę Północną. NORAD później odkrył, że system wczesnego ostrzegania na Grenlandii zinterpretował księżyc wschodzący nad Norwegią jako atak rakietowy z Syberii.❞</i>
+<i>„Łatwiej jest zmienić specyfikację, aby pasowała do programu, niż na odwrót” — Alan Perlis ❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
-**_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat_**
+**_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat lub fakt_**
 
 ## Jak
 
-### Składnia
+### Syntax
 
 ```python
 # Game
@@ -82,4 +82,4 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 ### Kod
 
 Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) adapted to Python 3.9.2 by @desvasicek
+Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
