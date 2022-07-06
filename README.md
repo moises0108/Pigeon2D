@@ -79,9 +79,29 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/desvasicek">
+            <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
+            <br />
+            <sub><b>Des</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/desvasicek">
+            <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
+            <br />
+            <sub><b>Des</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
