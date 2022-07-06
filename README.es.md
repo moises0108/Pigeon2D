@@ -8,16 +8,6 @@
 
 Un motor de juego de Python para pygame.
 
-## Hecho/Cita del Compromiso
-
-<!--STARTS_HERE_QUOTE_README-->
-
-<i>❝“Es más fácil cambiar la especificación para adaptarla al programa que viceversa.”— Alan Perlis ❞</i>
-
-<!--ENDS_HERE_QUOTE_README-->
-
-**_¿Confundido? Cada vez que me comprometo con este proyecto, se publica una nueva cita o hecho._**
-
 ## Cómo
 
 ### Sintaxis
