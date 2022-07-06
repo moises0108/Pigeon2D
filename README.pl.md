@@ -8,19 +8,9 @@
 
 Silnik gry Pythona dla pygame.
 
-## Fakt/cytat o zobowiązaniu
-
-<!--STARTS_HERE_QUOTE_README-->
-
-<i>„Łatwiej jest zmienić specyfikację, aby pasowała do programu, niż na odwrót” — Alan Perlis ❞</i>
-
-<!--ENDS_HERE_QUOTE_README-->
-
-**_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat lub fakt_**
-
 ## Jak
 
-### Syntax
+### Składnia
 
 ```python
 # Game
