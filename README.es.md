@@ -8,9 +8,15 @@
 
 Un motor de juego de Python para pygame.
 
+## Cita del Compromiso
+
 <!--STARTS_HERE_QUOTE_README-->
 
+<i>❝Seguridad de Web Arx dice que más de 20,000 sitios web son pirateados cada día y la mayoría de los EE. UU.❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
+
+_¿Confundido? Cada vez que me comprometo con este proyecto, se publica una nueva cotización_
 
 ## Cómo
 
