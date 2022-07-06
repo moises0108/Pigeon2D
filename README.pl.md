@@ -107,3 +107,7 @@ Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>)
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+### Przyczynianie się
+
+Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**poproś mnie o zezwolenie na dostęp do współpracy**](https://github.com/desvasicek/Pigeon2D/discussions/2)
