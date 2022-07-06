@@ -6,11 +6,11 @@
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
-A python game engine for pygame.
+pygame的python游戏引擎。
 
 ## 如何
 
-### 句法
+### Syntax
 
 ```python
 # Game
