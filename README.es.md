@@ -67,7 +67,7 @@ Pop Shop Packs creó activos en itch.io (<https://pop-shop-packs.itch.io/>)
 
 ### Código de ejemplo
 
-Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
+Example code by @desvasicek (me) feel free to use it though.
 
 ### Código
 
