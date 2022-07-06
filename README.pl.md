@@ -10,7 +10,7 @@ Silnik gry Pythona dla pygame.
 
 ## Jak
 
-### Składnia
+### Syntax
 
 ```python
 # Game
@@ -63,7 +63,7 @@ while True:
 
 ### Majątek
 
-Zestawy zostały wykonane na itch.io przez pakiety Pop Shop (<https://pop-shop-packs.itch.io/>)
+Assets were made on itch.io by Pop Shop Packs (<https://pop-shop-packs.itch.io/>)
 
 ### Przykładowy kod
 
