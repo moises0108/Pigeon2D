@@ -105,3 +105,7 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+### Contributing
+
+To start, [**create a pull request**](https://github.com/desvasicek/Pigeon2D/pulls) or [**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
