@@ -63,7 +63,7 @@ while True:
 
 ### 资产
 
-资产由 Pop Shop Packs 在 itch.io 上制作（[HTTPS://婆婆-shop-packs.itch.IO/](https://pop-shop-packs.itch.io/))
+资产由 Pop Shop Packs 在 itch.io 上制作（<https://pop-shop-packs.itch.io/>)
 
 ### 示例代码
 
