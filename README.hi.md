@@ -6,11 +6,11 @@
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
-पायगम के लिए एक अजगर खेल इंजन।
+पायगम के लिए एक पायथन गेम इंजन।
 
 ## कैसे
 
-### वाक्य - विन्यास
+### Syntax
 
 ```python
 # Game
