@@ -1,6 +1,6 @@
 <center><img src="Pigeon2d.png"></center>
 
-# Paloma2D
+# Pigeon2D
 
 [![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
 
@@ -8,11 +8,11 @@
 
 Un motor de juego de Python para pygame.
 
-## Cita del Compromiso
+## Hecho del Compromiso
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝En 1960, la computadora de NORAD advirtió con un 99,9 % de certeza que los soviéticos acababan de lanzar un ataque con misiles a gran escala contra América del Norte. NORAD descubrió más tarde que el Sistema de Alerta Temprana en Groenlandia había interpretado la salida de la luna sobre Noruega como un ataque con misiles desde Siberia.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
