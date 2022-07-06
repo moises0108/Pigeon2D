@@ -8,9 +8,15 @@
 
 Silnik gry Pythona dla pygame.
 
+## Cytat Zobowiązania
+
 <!--STARTS_HERE_QUOTE_README-->
 
+<i>❝Bezpieczeństwo Web Arx mówi, że każdego dnia hakowanych jest ponad 20 000 stron internetowych, a większość pochodzi z USA❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
+
+_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat_
 
 ## Jak
 
