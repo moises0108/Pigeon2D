@@ -74,7 +74,7 @@ Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
 Código por @desvasicek y está registrado bajo la Licencia MIT ([Léalo aquí](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
 Manejo de hojas de sprites por pygame (<https://www.pygame.org/wiki/Spritesheet>) adaptado a Python 3.9.2 por @desvasicek
 
-# ¡Gracias!
+# Thank You!
 
 ## Colaboradores
 
