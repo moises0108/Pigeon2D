@@ -74,13 +74,3 @@ Example code by @desvasicek (me) feel free to use it though.
 ### Code
 Code by @desvasicek and is registered under the MIT License ([Read it here](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
 Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted to Python 3.9.2 by @desvasicek
-
-## Activity
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
