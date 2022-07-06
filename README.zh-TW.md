@@ -2,8 +2,7 @@
 
 # 鴿子2D
 
-[![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)
-![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
+[![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
@@ -64,7 +63,7 @@ while True:
 
 ### 資產
 
-Assets were made on itch.io by Pop Shop Packs (<https://pop-shop-packs.itch.io/>)
+資產由 Pop Shop Packs 在 itch.io 上製作（<https://pop-shop-packs.itch.io/>)
 
 ### 示例代碼
 
@@ -72,5 +71,5 @@ Assets were made on itch.io by Pop Shop Packs (<https://pop-shop-packs.itch.io/>
 
 ### 代碼
 
-@desvasicek 編寫的代碼，並在 MIT 許可證下註冊（[在這裡閱讀](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)）。
+@desvasicek 編寫的代碼，並在 MIT 許可證下註冊（[在這裡閱讀](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE))。
 pygame 處理 Spritesheet (<https://www.pygame.org/wiki/Spritesheet>) 由@desvasicek 改編為 Python 3.9.2
