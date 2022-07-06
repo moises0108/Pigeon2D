@@ -16,7 +16,7 @@ Silnik gry Pythona dla pygame.
 
 <!--ENDS_HERE_QUOTE_README-->
 
-_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat_
+**_Zdezorientowany? Za każdym razem, gdy angażuję się w ten projekt, pojawia się nowy cytat_**
 
 ## Jak
 
