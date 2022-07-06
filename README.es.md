@@ -2,8 +2,7 @@
 
 # Paloma2D
 
-[![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)
-![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
+[![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
@@ -73,7 +72,7 @@ Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
 ### Código
 
 Código por @desvasicek y está registrado bajo la Licencia MIT ([Léalo aquí](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Spritesheet handling by pygame (<https://www.pygame.org/wiki/Spritesheet>) adaptado a Python 3.9.2 por @desvasicek
+Manejo de hojas de sprites por pygame (<https://www.pygame.org/wiki/Spritesheet>) adaptado a Python 3.9.2 por @desvasicek
 
 # ¡Gracias!
 
@@ -108,3 +107,7 @@ Spritesheet handling by pygame (<https://www.pygame.org/wiki/Spritesheet>) adapt
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+### contribuyendo
+
+Para comenzar,[**crear una solicitud de extracción**](https://github.com/desvasicek/Pigeon2D/pulls)o[**pídeme que te permita el acceso de colaboración**](https://github.com/desvasicek/Pigeon2D/discussions/2)
