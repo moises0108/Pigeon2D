@@ -8,6 +8,10 @@
 
 Silnik gry Pythona dla pygame.
 
+<!--STARTS_HERE_QUOTE_README-->
+
+<!--ENDS_HERE_QUOTE_README-->
+
 ## Jak
 
 ### Składnia
@@ -59,7 +63,7 @@ while True:
     pygame 1.9.6
     Hello from the pygame community. https://www.pygame.org/contribute.html
 
-## Używany w samouczku
+## Used in Tutorial
 
 ### Majątek
 
