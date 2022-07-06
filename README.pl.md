@@ -10,7 +10,7 @@ Silnik gry Pythona dla pygame.
 
 ## Jak
 
-### Syntax
+### Składnia
 
 ```python
 # Game
@@ -63,7 +63,7 @@ while True:
 
 ### Majątek
 
-Assets were made on itch.io by Pop Shop Packs (<https://pop-shop-packs.itch.io/>)
+Zestawy zostały wykonane na itch.io przez pakiety Pop Shop (<https://pop-shop-packs.itch.io/>)
 
 ### Przykładowy kod
 
@@ -73,3 +73,37 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 
 Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
 Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
+
+# Dziękuję!
+
+## Współpracownicy
+
+<!-- readme: collaborators -start -->
+
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/desvasicek">
+            <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
+            <br />
+            <sub><b>Des</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators -end -->
+
+## Współtwórcy
+
+<!-- readme: contributors -start -->
+
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/desvasicek">
+            <img src="https://avatars.githubusercontent.com/u/84301435?v=4" width="100;" alt="desvasicek"/>
+            <br />
+            <sub><b>Des</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
