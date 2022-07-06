@@ -14,6 +14,9 @@
 
 A python game engine for pygame.
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 ## How To
 
 ### Syntax
