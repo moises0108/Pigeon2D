@@ -71,7 +71,7 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 
 ### Kod
 
-Code by @desvasicek and is registered under the MIT License ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
+Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
 Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
 
 # Dziękuję!
@@ -110,4 +110,4 @@ Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>)
 
 ### Przyczynianie się
 
-Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**poproś mnie o zezwolenie na dostęp do współpracy**](https://github.com/desvasicek/Pigeon2D/discussions/2)
+Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
