@@ -8,6 +8,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)
 ![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)
 [![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
+[![Documentation Status](https://readthedocs.org/projects/pigeon2d/badge/?version=latest)](https://pigeon2d.readthedocs.io/en/latest/?badge=latest)
 
 ![Current](https://img.shields.io/badge/currently-in%20progress-red)
 [![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
