@@ -63,7 +63,7 @@ while True:
     pygame 1.9.6
     Hello from the pygame community. https://www.pygame.org/contribute.html
 
-## Used in Tutorial
+## Używany w samouczku
 
 ### Majątek
 
