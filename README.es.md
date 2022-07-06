@@ -12,11 +12,11 @@ Un motor de juego de Python para pygame.
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Seguridad de Web Arx dice que más de 20,000 sitios web son pirateados cada día y la mayoría de los EE. UU.❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
-_¿Confundido? Cada vez que me comprometo con este proyecto, se publica una nueva cotización_
+**_¿Confundido? Cada vez que me comprometo con este proyecto, se publica una nueva cotización_**
 
 ## Cómo
 
