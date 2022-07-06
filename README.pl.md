@@ -8,11 +8,11 @@
 
 Silnik gry Pythona dla pygame.
 
-## Cytat Zobowiązania
+## Fakt zobowiązania
 
 <!--STARTS_HERE_QUOTE_README-->
 
-<i>❝Bezpieczeństwo Web Arx mówi, że każdego dnia hakowanych jest ponad 20 000 stron internetowych, a większość pochodzi z USA❞</i>
+<i>❝W 1960 r. komputer w NORAD ostrzegł z 99,9% pewnością, że Sowieci właśnie rozpoczęli atak rakietowy na pełną skalę na Amerykę Północną. NORAD później odkrył, że system wczesnego ostrzegania na Grenlandii zinterpretował księżyc wschodzący nad Norwegią jako atak rakietowy z Syberii.❞</i>
 
 <!--ENDS_HERE_QUOTE_README-->
 
@@ -82,4 +82,4 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 ### Kod
 
 Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
+Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) adapted to Python 3.9.2 by @desvasicek
