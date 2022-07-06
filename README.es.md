@@ -8,6 +8,10 @@
 
 Un motor de juego de Python para pygame.
 
+<!--STARTS_HERE_QUOTE_README-->
+
+<!--ENDS_HERE_QUOTE_README-->
+
 ## Cómo
 
 ### Sintaxis
@@ -67,7 +71,7 @@ Pop Shop Packs creó activos en itch.io (<https://pop-shop-packs.itch.io/>)
 
 ### Código de ejemplo
 
-Example code by @desvasicek (me) feel free to use it though.
+Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
 
 ### Código
 
