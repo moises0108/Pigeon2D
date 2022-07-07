@@ -110,3 +110,11 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 ### Contributing
 
 To start, [**create a pull request**](https://github.com/desvasicek/Pigeon2D/pulls) or [**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
+
+## Bugs :bug:
+
+Please [**create an issue**](https://github.com/desvasicek/Pigeon2D/issues)
+
+## Ideas 
+
+Please [**communicate with me**](https://github.com/desvasicek/Pigeon2D/discussions/1)
