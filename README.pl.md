@@ -111,3 +111,11 @@ Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>)
 ### Przyczynianie się
 
 Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**poproś mnie o zezwolenie na dostęp do współpracy**](https://github.com/desvasicek/Pigeon2D/discussions/2)
+
+## Błędy: błąd:
+
+Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
+
+## Pomysły
+
+Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
