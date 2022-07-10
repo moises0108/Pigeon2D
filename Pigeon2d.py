@@ -5,11 +5,6 @@ import sys, os, time, random, requests
 pygame.init()
 pygame.font.init()
 sprites = []
-if open("Pigeon2d.py").read() != requests.get('https://raw.githubusercontent.com/desvasicek/Pigeon2D/main/Pigeon2d.py').text:
-    print("Your version of Pigeon2D is not up to date. Updating it is recommended.")
-else:
-    print("Welcome to Pigeon2D")
-    print("\nRunning your game...")
 def resize_image(image, size=(32, 32)):
     try:
         image = pygame.image.load(image)
