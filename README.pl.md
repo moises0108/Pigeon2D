@@ -72,7 +72,7 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 ### Kod
 
 Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
+Spritesheet handling by pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
 
 # Dziękuję!
 
