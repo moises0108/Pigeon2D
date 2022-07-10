@@ -8,6 +8,50 @@
 
 Silnik gry Pythona dla pygame.
 
+# Spis treści
+
+-   [Gołąb2d](#pigeon2d)
+-   [Spis treści](#table-of-contents)
+    -   [Instalacja](#installation)
+        -   [zainstalować](#install)
+        -   [Aktualizacja](#upgrade)
+        -   [Zainstaluj najnowszą wersję Pygame](#install-pygame-newest-version)
+    -   [Jak](#how-to)
+        -   [Składnia](#syntax)
+        -   [Instruktaż](#tutorial)
+    -   [Używany w samouczku](#used-in-tutorial)
+        -   [Majątek](#assets)
+        -   [Przykładowy kod](#example-code)
+        -   [Kod](#code)
+-   [Dziękuję!](#thank-you)
+    -   [Współpracownicy](#collaborators)
+    -   [Współtwórcy](#contributors)
+        -   [Przyczynianie się](#contributing)
+    -   [Błędy 🐛️](#bugs)
+    -   [Pomysły 💡️](#ideas)
+
+## Instalacja
+
+⚠️ Kiedy instalujesz pakiet za pomocą pip, instaluje się pygame 1.9.2, który jest użyteczny, ale zalecany jest przynajmniej pygame 2.1.2.
+
+### zainstalować
+
+```bash
+$ pip install Pigeon2d
+```
+
+### Aktualizacja
+
+```bash
+$ pip install -U Pigeon2d
+```
+
+### Zainstaluj najnowszą wersję Pygame
+
+```bash
+$ pip install -U pygame
+```
+
 ## Jak
 
 ### Składnia
@@ -72,7 +116,7 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 ### Kod
 
 Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Spritesheet handling by pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
+Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
 
 # Dziękuję!
 
@@ -112,10 +156,10 @@ Spritesheet handling by pygame (<https://www.pygame.org/wiki/Spritesheet>) dosto
 
 Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**poproś mnie o zezwolenie na dostęp do współpracy**](https://github.com/desvasicek/Pigeon2D/discussions/2)
 
-## Błędy: błąd:
+## Błędy 🐛️
 
 Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
 
-## Pomysły
+## Pomysły 💡️
 
 Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
