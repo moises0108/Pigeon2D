@@ -8,7 +8,7 @@
 
 Silnik gry Pythona dla pygame.
 
-## How To
+## Jak
 
 ### Składnia
 
@@ -67,7 +67,7 @@ Zestawy zostały wykonane na itch.io przez pakiety Pop Shop (<https://pop-shop-p
 
 ### Przykładowy kod
 
-Example code by @desvasicek (me) feel free to use it though.
+Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 
 ### Kod
 
