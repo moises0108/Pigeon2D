@@ -15,6 +15,50 @@
 
 A python game engine for pygame.
 
+# Table of Contents
+
+- [Pigeon2d](#pigeon2d)
+- [Table of Contents](#table-of-contents)
+	- [Installation](#installation)
+		- [Install](#install)
+		- [Upgrade](#upgrade)
+		- [Install Pygame Newest Version](#install-pygame-newest-version)
+	- [How To](#how-to)
+		- [Syntax](#syntax)
+		- [Tutorial](#tutorial)
+	- [Used in Tutorial](#used-in-tutorial)
+		- [Assets](#assets)
+		- [Example Code](#example-code)
+		- [Code](#code)
+- [Thank You!](#thank-you)
+	- [Collaborators](#collaborators)
+	- [Contributors](#contributors)
+		- [Contributing](#contributing)
+	- [Bugs 🐛️](#bugs)
+	- [Ideas 💡️](#ideas)
+
+## Installation
+
+⚠️ When you install the package using pip it installs pygame 1.9.2, which is usable, but pygame 2.1.2 at least is reccomended. ⚠️
+
+### Install
+
+```bash
+$ pip install Pigeon2d
+```
+
+### Upgrade
+
+```bash
+$ pip install -U Pigeon2d
+```
+
+### Install Pygame Latest Version
+
+```bash
+$ pip install -U pygame
+```
+
 ## How To
 
 ### Syntax
@@ -111,10 +155,10 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 
 To start, [**create a pull request**](https://github.com/desvasicek/Pigeon2D/pulls) or [**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
 
-## Bugs :bug:
+## Bugs 🐛️
 
 Please [**create an issue**](https://github.com/desvasicek/Pigeon2D/issues)
 
-## Ideas 
+## Ideas 💡️
 
 Please [**communicate with me**](https://github.com/desvasicek/Pigeon2D/discussions/1)

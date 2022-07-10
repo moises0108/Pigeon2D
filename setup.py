@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Pigeon2D',
-      version='1.2.1',
+      version='1.3',
       description='A game engine for python pygame.',
       url='https://github.com/desvasicek/Pigeon2D',
       author='desvasicek',

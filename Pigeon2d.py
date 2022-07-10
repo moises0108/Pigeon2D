@@ -35,12 +35,24 @@ class Game:
                 pygame.quit()
                 sys.exit()
         self.FPS.tick(60)
+    def config(self, title=None, GRAVITY=None, FRICTION=None, ACCELERATION=None):
+        if title:
+            pygame.display.set_caption(title)
+        if GRAVITY:
+            self.GRAV = GRAVITY
+        if FRICTION:
+            self.FRIC = FRICTION
+        if ACCELERATION:
+            self.ACCEL = ACCELRATION
+        if not title and not GRAVITY and not FRICTION and not ACCELERATION:
+            print("Please enter a configuration option: title, GRAVITY, FRICTION or ACCELERATION.")
 class Sprite(pygame.sprite.Sprite):
-    def __init__(self, surface, image, pos=(0, 0), playerobj=True):
+    def __init__(self, surface, image, pos=(0, 0), playerobj=True, gravityaffected=True):
         super().__init__()
         sprites.append(self)
         self.velx = 0
         self.vely = 0
+        self.gravityaffected = gravityaffected
         self.playerobj = playerobj
         try:
             self.image = pygame.image.load(image)
@@ -56,9 +68,27 @@ class Sprite(pygame.sprite.Sprite):
         if pressed_keys[K_RIGHT]:
             self.velx += self.surface.ACCEL
         self.velx *= self.surface.FRIC
+        if self.gravityaffected:
+            self.vely += self.surface.GRAV
         self.rect.move_ip(self.velx, self.vely)
     def draw(self):
         self.surface.window.blit(self.image, self.rect)
+    def config(self, surface=None, image=None, pos=None, playerobj=None, gravityaffected=None):
+        if surface:
+            self.surface = surface
+        if image:
+            try:
+                self.image = pygame.image.load(image)
+            except:
+                self.image = image
+        if pos:
+            self.rect.center = pos
+        if playerobj:
+            self.playerobj = playerobj
+        if gravityaffected:
+            self.gravityaffected = gravityaffected
+        if not playerobj and not pos and not image and not surface and not gravityaffected:
+            print("Please enter a configuration option: surface, image, pos, playerobj or gravityaffected.")
 
 # Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted to Python 3.9.2 by desvasicek
 
