@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(name='Pigeon2D',
-      version='1.2',
+      version='1.2.1',
       description='A game engine for python pygame.',
       url='https://github.com/desvasicek/Pigeon2D',
       author='desvasicek',
       author_email=None,
       license='MIT',
       packages=[],
-      install_requires="pygame>=1.9.6",
+      install_requires=["pygame>=1.9.6", "python>=2.0"],
       zip_safe=False,
       setup_requires=['pytest-runner'],
       long_description=open("index.rst").read(),
