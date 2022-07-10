@@ -8,6 +8,50 @@
 
 Un motor de juego de Python para pygame.
 
+# Tabla de contenido
+
+-   [paloma2d](#pigeon2d)
+-   [Tabla de contenido](#table-of-contents)
+    -   [Instalación](#installation)
+        -   [Instalar](#install)
+        -   [Mejora](#upgrade)
+        -   [Instale la última versión de Pygame](#install-pygame-newest-version)
+    -   [Cómo](#how-to)
+        -   [Sintaxis](#syntax)
+        -   [Tutorial](#tutorial)
+    -   [Usado en Tutorial](#used-in-tutorial)
+        -   [Activos](#assets)
+        -   [Código de ejemplo](#example-code)
+        -   [Código](#code)
+-   [¡Gracias!](#thank-you)
+    -   [Colaboradores](#collaborators)
+    -   [Colaboradores](#contributors)
+        -   [contribuyendo](#contributing)
+    -   [Bichos 🐛️](#bugs)
+    -   [Ideas 💡️](#ideas)
+
+## Instalación
+
+⚠️ Cuando instala el paquete usando pip, instala pygame 1.9.2, que se puede usar, pero se recomienda al menos pygame 2.1.2. ⚠️
+
+### Instalar
+
+```bash
+$ pip install Pigeon2d
+```
+
+### Mejora
+
+```bash
+$ pip install -U Pigeon2d
+```
+
+### Instale la última versión de Pygame
+
+```bash
+$ pip install -U pygame
+```
+
 ## Cómo
 
 ### Sintaxis
@@ -65,7 +109,7 @@ while True:
 
 Pop Shop Packs creó activos en itch.io (<https://pop-shop-packs.itch.io/>)
 
-### Código de ejemplo
+### Example Code
 
 Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
 
@@ -112,10 +156,10 @@ Manejo de hojas de sprites por pygame (<https://www.pygame.org/wiki/Spritesheet>
 
 Para comenzar,[**crear una solicitud de extracción**](https://github.com/desvasicek/Pigeon2D/pulls)o[**pídeme que te permita el acceso de colaboración**](https://github.com/desvasicek/Pigeon2D/discussions/2)
 
-## bichos :bicho:
+## Bichos 🐛️
 
 Por favor[**crear un problema**](https://github.com/desvasicek/Pigeon2D/issues)
 
-## Ideas
+## Ideas 💡️
 
 Por favor[**Comunicate conmigo**](https://github.com/desvasicek/Pigeon2D/discussions/1)
