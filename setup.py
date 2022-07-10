@@ -11,7 +11,7 @@ setup(name='Pigeon2D',
       install_requires="pygame>=1.9.6",
       zip_safe=False,
       setup_requires=['pytest-runner'],
-      long_description="",
+      long_description=open("index.rst").read(),
       tests_require=['pytest'],
       classifiers=[
         "Development Status :: 2 - Pre-Alpha",
