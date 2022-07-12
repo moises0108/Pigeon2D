@@ -52,7 +52,7 @@ $ pip install -U Pigeon2d
 $ pip install -U pygame
 ```
 
-## Cómo
+## How To
 
 ### Sintaxis
 
@@ -109,7 +109,7 @@ while True:
 
 Pop Shop Packs creó activos en itch.io (<https://pop-shop-packs.itch.io/>)
 
-### Example Code
+### Código de ejemplo
 
 Sin embargo, el código de ejemplo de @desvasicek (yo) no dude en usarlo.
 
@@ -151,6 +151,12 @@ Manejo de hojas de sprites por pygame (<https://www.pygame.org/wiki/Spritesheet>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+## Astrónomos
+
+-   **@Global**
+-   **@Moosems**
+-   **@cergotv12**
 
 ### contribuyendo
 
