@@ -152,6 +152,12 @@ Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>)
 </table>
 <!-- readme: contributors -end -->
 
+## Stargazers
+
+-   **@Światowy**
+-   **@Moosems**
+-   **@Cergotv12**
+
 ### Przyczynianie się
 
 Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls)lub[**poproś mnie o zezwolenie na dostęp do współpracy**](https://github.com/desvasicek/Pigeon2D/discussions/2)
@@ -162,4 +168,4 @@ Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
 
 ## Pomysły 💡️
 
-Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
+Please [**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
