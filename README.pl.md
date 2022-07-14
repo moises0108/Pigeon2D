@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)[![Documentation Status](https://readthedocs.org/projects/pigeon2d/badge/?version=latest)](https://pigeon2d.readthedocs.io/en/latest/?badge=latest)
 
-![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
+![Current]\(<https://img.shields.io/badge/currently-in>postęp-czerwony)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
 Silnik gry Pythona dla pygame.
 
@@ -19,7 +19,7 @@ Silnik gry Pythona dla pygame.
     -   [Jak](#how-to)
         -   [Składnia](#syntax)
         -   [Instruktaż](#tutorial)
-    -   [Used in Tutorial](#used-in-tutorial)
+    -   [Używany w samouczku](#used-in-tutorial)
         -   [Majątek](#assets)
         -   [Przykładowy kod](#example-code)
         -   [Kod](#code)
@@ -29,6 +29,17 @@ Silnik gry Pythona dla pygame.
         -   [Przyczynianie się](#contributing)
     -   [Błędy 🐛️](#bugs)
     -   [Pomysły 💡️](#ideas)
+
+## Zalety
+
+-   Nie bardzo zależny
+-   Lekki
+-   Łatwy w użyciu
+
+## Niedogodności
+
+-   Nie w pełni funkcjonalny
+-   Ograniczona pomoc
 
 ## Instalacja
 
@@ -117,8 +128,8 @@ Przykładowy kod autorstwa @desvasicek (ja) możesz go jednak użyć.
 
 ### Kod
 
-Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Read it here](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
-Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) dostosowany do Pythona 3.9.2 autorstwa @desvasicek
+Kod autorstwa @desvasicek i jest zarejestrowany na licencji MIT ([Przeczytaj to tutaj](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
+Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>) adapted to Python 3.9.2 by @desvasicek
 
 # Dziękuję!
 
@@ -172,3 +183,5 @@ Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
 ## Pomysły 💡️
 
 Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
+
+<center><img src="footer.png"></center>

@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)[![Documentation Status](https://readthedocs.org/projects/pigeon2d/badge/?version=latest)](https://pigeon2d.readthedocs.io/en/latest/?badge=latest)
 
-![Current](https://img.shields.io/badge/currently-in%20progress-red)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
+![Current]\(<https://img.shields.io/badge/currently-in>progreso-rojo)[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
 Un motor de juego de Python para pygame.
 
@@ -24,11 +24,22 @@ Un motor de juego de Python para pygame.
         -   [Código de ejemplo](#example-code)
         -   [Código](#code)
 -   [¡Gracias!](#thank-you)
-    -   [Colaboradores](#collaborators)
+    -   [Collaborators](#collaborators)
     -   [Colaboradores](#contributors)
         -   [contribuyendo](#contributing)
     -   [Bichos 🐛️](#bugs)
     -   [Ideas 💡️](#ideas)
+
+## Ventajas
+
+-   no muy dependiente
+-   Ligero
+-   Fácil de usar
+
+## Desventajas
+
+-   No completamente destacado
+-   ayuda limitada
 
 ## Instalación
 
@@ -54,7 +65,7 @@ $ pip install -U pygame
 
 ## Cómo
 
-### Sintaxis
+### Syntax
 
 ```python
 # Game
@@ -172,3 +183,5 @@ Por favor[**crear un problema**](https://github.com/desvasicek/Pigeon2D/issues)
 ## Ideas 💡️
 
 Por favor[**Comunicate conmigo**](https://github.com/desvasicek/Pigeon2D/discussions/1)
+
+<center><img src="footer.png"></center>
