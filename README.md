@@ -10,7 +10,7 @@
 [![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
 [![Documentation Status](https://readthedocs.org/projects/pigeon2d/badge/?version=latest)](https://pigeon2d.readthedocs.io/en/latest/?badge=latest)
 
-![Current](https://img.shields.io/badge/currently-in%20progress-red)
+![Current](https://img.shields.io/badge/currently-in progress-red)
 [![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
 A python game engine for pygame.
@@ -36,6 +36,14 @@ A python game engine for pygame.
 		- [Contributing](#contributing)
 	- [Bugs 🐛️](#bugs)
 	- [Ideas 💡️](#ideas)
+	
+## Advantages
+- Not very dependant
+- Lightweight
+- Easy to use
+## Disadvantages
+- Not fully featured
+- Limited help
 
 ## Installation
 
