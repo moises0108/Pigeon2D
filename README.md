@@ -156,6 +156,7 @@ Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted
 - __@ahribellah__
 - __@Moosems__
 - __@cergotv12__
+- __@merkfam__
 
 ### Contributing
 
