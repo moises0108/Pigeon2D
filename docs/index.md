@@ -1,37 +1,133 @@
-## Welcome to GitHub Pages
+<center><img src="Pigeon2d.png"></center>
 
-You can use the [editor on GitHub](https://github.com/desvasicek/Pigeon2D/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Pigeon2D
+[![Version](https://img.shields.io/pypi/v/Pigeon2D)](https://pypi.org/project/Pigeon2D/)
+![Lines](https://img.shields.io/tokei/lines/github/desvasicek/Pigeon2D)
+![Files](https://img.shields.io/github/directory-file-count/desvasicek/Pigeon2D)
+![Last Commit](https://img.shields.io/github/last-commit/desvasicek/Pigeon2D)
+![Size](https://img.shields.io/github/languages/code-size/desvasicek/Pigeon2D)
+[![Hits](https://hits.sh/github.com/desvasicek/Pigeon2D/hits.svg)](https://github.com/desvasicek/Pigeon2D)
+[![Documentation Status](https://readthedocs.org/projects/pigeon2d/badge/?version=latest)](https://pigeon2d.readthedocs.io/en/latest/?badge=latest)
 
-### Markdown
+![Current](https://img.shields.io/badge/currently-in%20progress-red)
+[![Help wanted](https://img.shields.io/badge/-help--wanted-yellow)](https://github.com/desvasicek/Pigeon2D/pulls)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A python game engine for pygame.
 
-```markdown
-Syntax highlighted code block
+# Table of Contents
 
-# Header 1
-## Header 2
-### Header 3
+- [Pigeon2d](#pigeon2d)
+- [Table of Contents](#table-of-contents)
+	- [Installation](#installation)
+		- [Install](#install)
+		- [Upgrade](#upgrade)
+		- [Install Pygame Newest Version](#install-pygame-newest-version)
+	- [How To](#how-to)
+		- [Syntax](#syntax)
+		- [Tutorial](#tutorial)
+	- [Used in Tutorial](#used-in-tutorial)
+		- [Assets](#assets)
+		- [Example Code](#example-code)
+		- [Code](#code)
+- [Thank You!](#thank-you)
+	- [Collaborators](#collaborators)
+	- [Contributors](#contributors)
+		- [Contributing](#contributing)
+	- [Bugs 🐛️](#bugs)
+	- [Ideas 💡️](#ideas)
 
-- Bulleted
-- List
+## Installation
 
-1. Numbered
-2. List
+⚠️ When you install the package using pip it installs pygame 1.9.2, which is usable, but pygame 2.1.2 at least is reccomended. ⚠️
 
-**Bold** and _Italic_ and `Code` text
+### Install
 
-[Link](url) and ![Image](src)
+```bash
+$ pip install Pigeon2d
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Upgrade
 
-### Jekyll Themes
+```bash
+$ pip install -U Pigeon2d
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/desvasicek/Pigeon2D/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Install Pygame Latest Version
 
-### Support or Contact
+```bash
+$ pip install -U pygame
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How To
+
+### Syntax
+
+```python
+# Game
+
+Game(title, GRAVITY, FRICTION, ACCELERATION)
+.update(fill)
+
+# Sprite (pygame.sprite.Sprite)
+
+Sprite(surface, image, pos, playerobj)
+.move()
+.draw()
+
+# spritesheet (object)
+
+spritesheet(filename)
+.image_at(rectangle, colorkey)
+.images_at(rects, colorkey)
+.load_strip(rect, image_count, colorkey)
+
+# SpriteStripAnim (object)
+
+SpriteStripAnim(filename, rect, count, colorkey, loop, frames)
+.iter()
+.next()
+
+```
+
+### Tutorial
+
+```python
+# import module
+import Pigeon2d as p
+# initialize Game() object
+game = p.Game()
+# load image
+image = p.resize_image(p.spritesheet("assets/Pigeons/Original Diminsions/Pigeon Sprite Sheet.png").image_at((0, 16, 16, 16)))
+# initialize player Sprite() object
+player = p.Sprite(game, image, pos=(20, 20))
+# game loop
+while True:
+    game.update()
+
+```
+```
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+```
+
+## Used in Tutorial
+### Assets
+Assets were made on itch.io by Pop Shop Packs (https://pop-shop-packs.itch.io/)
+### Example Code
+Example code by @desvasicek (me) feel free to use it though.
+### Code
+Code by @desvasicek and is registered under the MIT License ([Read it here](https://github.com/desvasicek/Pigeon2D/blob/main/LICENSE)).
+Spritesheet handling by pygame (https://www.pygame.org/wiki/Spritesheet) adapted to Python 3.9.2 by @desvasicek
+
+### Contributing
+
+To start, [**create a pull request**](https://github.com/desvasicek/Pigeon2D/pulls) or [**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
+
+## Bugs 🐛️
+
+Please [**create an issue**](https://github.com/desvasicek/Pigeon2D/issues)
+
+## Ideas 💡️
+
+Please [**communicate with me**](https://github.com/desvasicek/Pigeon2D/discussions/1)
