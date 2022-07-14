@@ -22,7 +22,7 @@ Silnik gry Pythona dla pygame.
     -   [Używany w samouczku](#used-in-tutorial)
         -   [Majątek](#assets)
         -   [Przykładowy kod](#example-code)
-        -   [Kod](#code)
+        -   [Code](#code)
 -   [Dziękuję!](#thank-you)
     -   [Współpracownicy](#collaborators)
     -   [Współtwórcy](#contributors)
@@ -159,7 +159,7 @@ Obsługa arkuszy sprite przez pygame (<https://www.pygame.org/wiki/Spritesheet>)
 -   **@Światowy**
 -   **@Moosems**
 -   **@Cergotv12**
--   **@szarlotka**
+-   **@merkfam**
 
 ### Przyczynianie się
 
@@ -169,7 +169,7 @@ Zacząć,[**utwórz pull request**](https://github.com/desvasicek/Pigeon2D/pulls
 
 Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
 
-## Ideas 💡️
+## Pomysły 💡️
 
 Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
 
