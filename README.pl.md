@@ -168,4 +168,4 @@ Proszę[**stworzyć problem**](https://github.com/desvasicek/Pigeon2D/issues)
 
 ## Pomysły 💡️
 
-Please [**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
+Proszę[**komunikuj się ze mną**](https://github.com/desvasicek/Pigeon2D/discussions/1)
