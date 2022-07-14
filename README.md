@@ -171,3 +171,5 @@ Please [**create an issue**](https://github.com/desvasicek/Pigeon2D/issues)
 ## Ideas 💡️
 
 Please [**communicate with me**](https://github.com/desvasicek/Pigeon2D/discussions/1)
+
+<center><img src="footer.png"></center>
