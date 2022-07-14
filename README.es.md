@@ -26,7 +26,7 @@ Un motor de juego de Python para pygame.
 -   [¡Gracias!](#thank-you)
     -   [Colaboradores](#collaborators)
     -   [Colaboradores](#contributors)
-        -   [Contributing](#contributing)
+        -   [contribuyendo](#contributing)
     -   [Bichos 🐛️](#bugs)
     -   [Ideas 💡️](#ideas)
 
@@ -163,7 +163,7 @@ Manejo de hojas de sprites por pygame (<https://www.pygame.org/wiki/Spritesheet>
 
 ### contribuyendo
 
-Para comenzar,[**crear una solicitud de extracción**](https://github.com/desvasicek/Pigeon2D/pulls)o[**ask me to allow you collaboration access**](https://github.com/desvasicek/Pigeon2D/discussions/2)
+Para comenzar,[**crear una solicitud de extracción**](https://github.com/desvasicek/Pigeon2D/pulls)o[**pídeme que te permita el acceso de colaboración**](https://github.com/desvasicek/Pigeon2D/discussions/2)
 
 ## Bichos 🐛️
 
