@@ -52,7 +52,7 @@ $ pip install -U Pigeon2d
 $ pip install -U pygame
 ```
 
-## How To
+## Cómo
 
 ### Sintaxis
 
