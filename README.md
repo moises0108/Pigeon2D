@@ -68,12 +68,14 @@ $ pip install -U pygame
 
 Game(title, GRAVITY, FRICTION, ACCELERATION)
 .update(fill)
+.config(title, GRAVITY, FRICTION, ACCELERATION)
 
 # Sprite (pygame.sprite.Sprite)
 
 Sprite(surface, image, pos, playerobj)
 .move()
 .draw()
+.config(surface, image, pos, playerobj)
 
 # spritesheet (object)
 
